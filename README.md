@@ -100,4 +100,6 @@ Answer the following questions:
 
 2. At runtime, which version of the `draw` method does `d.draw(gc)` call?
 
+3. Include all your code and produced art.
+
 Zip all your files send to alothman@uga.edu
