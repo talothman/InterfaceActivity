@@ -91,3 +91,13 @@ There are two things that you need to do. You must compile all the classes submi
 	    	primaryStage.show();
 	    }
     }
+```
+
+## Submission ##
+Make a file named SUBMISSION.md and add your name and ID to the top.
+Answer the following questions:
+1. What does the method `newInstance()` do? What was it's role in the driver code above?
+
+2. At runtime, which version of the `draw` method does `d.draw(gc)` call?
+
+Zip all your files send to alothman@uga.edu
