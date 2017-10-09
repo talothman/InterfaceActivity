@@ -38,7 +38,7 @@ public class InterfaceDriver extends Application {
 						Drawer d = (Drawer) Class.forName("DrawerClass" + i).newInstance();
 						d.draw(gc);
 					}catch(Exception e1){
-						e1.printStackTrace();
+						System.out.println("Cannot find DrawerClass class.");
 						System.exit(0);
 					}
 					root1.getChildren().add(canvas);
